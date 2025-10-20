@@ -1,0 +1,35 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[submodule "lib/forge-std"]
+	url = https://github.com/foundry-rs/forge-std
+	active = true
+[submodule "lib/v4-core"]
+	url = https://github.com/uniswap/v4-core
+	active = true
+[submodule "lib/v4-periphery"]
+	url = https://github.com/uniswap/v4-periphery
+	active = true
+[submodule "lib/permit2"]
+	url = https://github.com/uniswap/permit2
+	active = true
+[submodule "lib/universal-router"]
+	url = https://github.com/Uniswap/universal-router
+	active = true
+[submodule "lib/v3-core"]
+	url = https://github.com/uniswap/v3-core
+	active = true
+[submodule "lib/v2-core"]
+	url = https://github.com/uniswap/v2-core
+	active = true
+[submodule "lib/openzeppelin-contracts"]
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+	active = true
+[submodule "lib/foundry-chainlink-toolkit"]
+	url = https://github.com/smartcontractkit/foundry-chainlink-toolkit
+	active = true
+[submodule "lib/solmate"]
+	url = https://github.com/transmissions11/solmate
+	active = true

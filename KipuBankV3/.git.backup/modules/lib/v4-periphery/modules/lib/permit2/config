@@ -1,0 +1,24 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	worktree = ../../../../../../../lib/v4-periphery/lib/permit2
+[remote "origin"]
+	url = https://github.com/Uniswap/permit2
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[submodule "lib/forge-gas-snapshot"]
+	active = true
+	url = https://github.com/marktoda/forge-gas-snapshot
+[submodule "lib/forge-std"]
+	active = true
+	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/openzeppelin-contracts"]
+	active = true
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "lib/solmate"]
+	active = true
+	url = https://github.com/rari-capital/solmate

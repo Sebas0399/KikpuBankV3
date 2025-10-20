@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+82dd33a7b3bcc56e10a26a46245d719fbb6a1d8b refs/remotes/origin/add-size-snapshot
+cf34ad1ed0a1f323e77557b9bce420f3385f7400 refs/remotes/origin/main
+0cc4cb9445cf10f855e26d0b1ed5b755e010307a refs/remotes/origin/soldeer
+f9c916975621f41893f5b609c27c9c69387eb9c8 refs/remotes/origin/test-parity
+95b94c28fa47b24c6c6133cca2ef8b5f13e3410e refs/remotes/origin/update-readme

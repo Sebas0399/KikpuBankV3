@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	worktree = ../../../../../../../../../../../../../lib/v4-periphery/lib/v4-core/lib/solmate/lib/ds-test
+[remote "origin"]
+	url = https://github.com/dapphub/ds-test
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master

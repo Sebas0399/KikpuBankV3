@@ -1,0 +1,21 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	worktree = ../../../../../../../lib/v4-periphery/lib/v4-core
+[remote "origin"]
+	url = https://github.com/Uniswap/v4-core
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[submodule "lib/forge-std"]
+	active = true
+	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/openzeppelin-contracts"]
+	active = true
+	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "lib/solmate"]
+	active = true
+	url = https://github.com/transmissions11/solmate

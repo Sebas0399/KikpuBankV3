@@ -1,0 +1,39 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitmodules
+#	new file:   lib/forge-std
+#	new file:   lib/foundry-chainlink-toolkit
+#	new file:   lib/openzeppelin-contracts
+#	new file:   lib/permit2
+#	new file:   lib/universal-router
+#	new file:   lib/v2-core
+#	new file:   lib/v3-core
+#	new file:   lib/v4-core
+#	new file:   lib/v4-periphery
+#
+# Changes not staged for commit:
+#	modified:   lib/forge-std (new commits)
+#	modified:   lib/openzeppelin-contracts (new commits)
+#	modified:   lib/universal-router (new commits, modified content)
+#	modified:   lib/v2-core (new commits)
+#	modified:   lib/v3-core (new commits)
+#	modified:   lib/v4-core (new commits)
+#
+# Untracked files:
+#	.github/
+#	.gitignore
+#	README.md
+#	broadcast/
+#	foundry.lock
+#	foundry.toml
+#	remappings.txt
+#	script/
+#	src/
+#

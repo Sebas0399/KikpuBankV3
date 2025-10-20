@@ -1,0 +1,13 @@
+# pack-refs with: peeled fully-peeled sorted 
+b48663b1b530a490a72f7d65f41ccf319043f53d refs/remotes/origin/add-stale
+f3562622db69186d29a08f2800303c252a993cbe refs/remotes/origin/dependabot/npm_and_yarn/cipher-base-1.0.6
+ee547b17853e71ed4e0101ccfd52e70d5acded58 refs/remotes/origin/dev
+f1775758998a2aa7f0d7ed0c90dd26d6dccd99fe refs/remotes/origin/feat/foundry-tests
+ee547b17853e71ed4e0101ccfd52e70d5acded58 refs/remotes/origin/master
+ee547b17853e71ed4e0101ccfd52e70d5acded58 refs/remotes/origin/staging
+816075049f811f1b061bca81d5d040b96f4c07eb refs/tags/v1.0.0
+b19ff868aaef9336de9c83bd400ab40a598b1875 refs/tags/v1.0.0-beta.1
+6667730b74afd3ca0c6823492a2314650f3c0c21 refs/tags/v1.0.0-beta.3
+5e59a166de60cabf1fb0222bd6b9dfb10148f382 refs/tags/v1.0.0-beta.4
+d2bfbb3649b265559bec74a7dd878dc1cf01c63c refs/tags/v1.0.1
+^4dd59067c76dea4a0e8e4bfdda41877a6b16dedc

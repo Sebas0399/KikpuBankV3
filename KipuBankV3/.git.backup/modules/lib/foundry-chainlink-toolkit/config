@@ -1,0 +1,22 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	worktree = ../../../../lib/foundry-chainlink-toolkit
+[remote "origin"]
+	url = https://github.com/smartcontractkit/foundry-chainlink-toolkit
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+	vscode-merge-base = origin/main
+[submodule "lib/chainlink-brownie-contracts"]
+	active = true
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "lib/forge-std"]
+	active = true
+	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/openzeppelin-contracts"]
+	active = true
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts

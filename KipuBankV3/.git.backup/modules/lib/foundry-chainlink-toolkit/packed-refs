@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+35953752c279c018fbf0965868254f88634ed4a5 refs/remotes/origin/feature/additional-jobs
+6e886ae8cb5dce36bcb301c476ff0e326fa95183 refs/remotes/origin/feature/automation-tests
+6bd2079c85d7ec020e2e3b52cbdb69163ce5c75c refs/remotes/origin/feature/integration-automation
+f9a232801dd424ff6ffb12908eb7c19f9f723297 refs/remotes/origin/fix/LinkToken-compiler-version
+24b796128232bcfc4e331d1246dad78425798a4a refs/remotes/origin/fix/issue-11
+d610ec9ef54c325de7de1a5622c19933b2ae26cf refs/remotes/origin/main
+0d4223e8f0e6247e64a8dccd1585303ea8e2a9ea refs/remotes/origin/readme-instructions

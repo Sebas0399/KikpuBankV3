@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+c68c0f643fd25cd427f6978093df28a21cd7bde1 refs/remotes/origin/edge-case
+e8f96f25d48fe702117ce76c79228ca4f20206cb refs/remotes/origin/erb
+13c7450e88ad8cf9f991797bdc382edaebf38322 refs/remotes/origin/logos
+89365b880c4f3c786bdd453d4b8e8fe410344a69 refs/remotes/origin/main
+27545b09183a9852f7655535d3c56f1ca46f018d refs/remotes/origin/mask-address-args-STL
+eaa7041378f9a6c12f943de08a6c41b31a9870fc refs/remotes/origin/v7
+a9e3ea26a2dc73bfa87f0cb189687d029028e0c5 refs/tags/v6

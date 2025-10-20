@@ -1,0 +1,21 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	worktree = ../../../../lib/universal-router
+[remote "origin"]
+	url = https://github.com/Uniswap/universal-router
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[submodule "lib/forge-std"]
+	active = true
+	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/permit2"]
+	active = true
+	url = git@github.com:Uniswap/permit2.git
+[submodule "lib/solmate"]
+	active = true
+	url = https://github.com/transmissions11/solmate

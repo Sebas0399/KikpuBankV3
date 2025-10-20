@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	worktree = ../../../../../../../lib/openzeppelin-contracts/lib/halmos-cheatcodes
+[remote "origin"]
+	url = https://github.com/a16z/halmos-cheatcodes
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
